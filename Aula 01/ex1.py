@@ -1,0 +1,5 @@
+print(' Data Science e Big Data na industria')
+print('Marcos Vinicius')
+print('07 - 11- 2026')
+print('Senai Roberto Mange')
+print('Pós Graduação')
